@@ -77,6 +77,6 @@
       </div>
     </div>
   </foreignObject>
-</svgg>
+</svg>
 
 # test
